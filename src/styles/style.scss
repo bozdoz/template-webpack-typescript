@@ -1,0 +1,16 @@
+$bg: white;
+$fg: #444;
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background: $bg;
+  color: $fg;
+  font-size: 20pt;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

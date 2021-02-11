@@ -1,0 +1,9 @@
+.eslintcache
+node_modules/
+.DS_Store
+Thumbs.db
+.idea/
+*.log
+package-lock.json
+yarn.lock
+dist
